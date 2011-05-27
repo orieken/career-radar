@@ -1,33 +1,24 @@
-title = 'Carlos Villela, May 2011';
+title = 'Oscar Rieken, May 2011';
 
 data = {
     'Languages': {
-        'Java': 4,
-        'Python':3,
+        'Java': 2,
+        'Python':1,
         'Objective-C':1,
-        'C':2,
-        'Smalltalk':2,
-        'Ruby': 4,
+        'C#' :3,
+        'Ruby': 3,
         'Clojure':1,
     },
 
     'Tools': {
         'Neo4j': 1,
         'MongoDB': 3,
-        'Rake': 3,
-        'EC2':  1,
-        'MySQL':3,
-        'PostgreSQL':2,
-        'Maven':2,
-        'Ivy':1,
-        'Oracle':2,
-        'Ant':4,
-        'Capistrano':3,
-        'IntelliJ':2,
-        'Git':3,
+        'Rake': 1,
+        'CouchDB' :2,
+        'IntelliJ':1,
+        'Git':1,
         'Hibernate':2,
-        'Vim':2,
-        'Svn':3,
+        'Svn':2,
     },
 
     'Techniques': {
@@ -42,13 +33,11 @@ data = {
     },
 
     'Platforms': {
-        'Linux':4,
+        'Linux':2,
         'MacOS X':4,
         'Windows':2,
-        'JEE':4,
         'iOS':1,
         'Android':1,
-        'JME':1,
     }
 };
 
