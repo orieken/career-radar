@@ -8,6 +8,11 @@ data = {
         'C#' :3,
         'Ruby': 3,
         'Clojure':1,
+        'Haskell':1,
+        'Io':1,
+        'Prolog':1,
+        'Scala':1,
+
     },
 
     'Tools': {
@@ -17,25 +22,32 @@ data = {
         'CouchDB' :2,
         'IntelliJ':1,
         'Git':1,
-        'Hibernate':2,
         'Svn':2,
+        'Watir':3,
+        'Selenium':3,
+        'WebDriver':3,
+        'Twist':2,
+        'Frankenstein':1,
+        'Cucumber':2,
+        'jBehave':1,
+        'IIS':2,
+
     },
 
     'Techniques': {
-        'TDD': 4,
-        'DDD': 2,
+        'TDD': 2,
         'BDD': 4,
-        'Continuous Delivery':3,
-        'REST':3,
+        'Continuous Delivery':1,
+        'REST':2,
         'OOD': 4,
-        'DevOps':2,
-        'Refactoring':4,
+        'DevOps':1,
+        'Refactoring':2,
     },
 
     'Platforms': {
         'Linux':2,
         'MacOS X':4,
-        'Windows':2,
+        'Windows':4,
         'iOS':1,
         'Android':1,
     }
