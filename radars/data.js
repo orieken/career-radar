@@ -21,14 +21,14 @@ data = {
         'Rake': 1,
         'CouchDB' :2,
         'IntelliJ':1,
-        'Git':1,
+        'Git':2,
         'Svn':2,
         'Watir':3,
         'Selenium':3,
         'WebDriver':3,
         'Twist':2,
-        'Frankenstein':1,
-        'Cucumber':2,
+        'Frank':1,
+        'Cucumber':3,
         'jBehave':1,
         'IIS':2,
 
@@ -48,8 +48,8 @@ data = {
         'Linux':2,
         'MacOS X':4,
         'Windows':4,
-        'iOS':1,
-        'Android':1,
+        'iOS':3,
+        'Android':3,
     }
 };
 
